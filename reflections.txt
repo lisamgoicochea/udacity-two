@@ -6,4 +6,10 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+Sense of direction when it comes to boxifying projects is a skill that has been strengthened since the beginning of this project.
+
+This project was pretty easy :)
+
+Getting my project to upload and view correctly was difficult! Ended up creating a new repo and pushing updated file.
+
+Not giving up especially when errors are minor and can easily be solved!
